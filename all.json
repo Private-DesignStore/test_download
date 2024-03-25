@@ -1,0 +1,52 @@
+{
+  "data": {
+    "num": 3,
+    "designs": [
+      {
+        "id": "765015899202403130424222854",
+        "group_id": "765015899202403130424222854",
+        "title": "Configurable Example Design For Nios V IP Packaged Subsystem",
+        "source": "GitHub",
+        "family": "Agilex 5",
+        "quartus_version": "24.1.0 Pro Edition",
+        "devkit": "Intel Agilex 5 FPGA E-Series DK A5E065BB32AES1 Premium Development Kit",
+        "device_part": "A5ED065BB32AE6SR0",
+        "description": "The following example design targeted on the Agilex-5 device enables the users to configure the following:",
+        "rich_description": "<h1></h1>\n\n<h2>Introduction</h2>\n\n<p></p>\n\n<ol>\n<li>Nios\u00ae V variant m, g and c core.</li>\n<li>The memory depth</li>\n<li>Enabling/Disabling the debug parameter for the Nios\u00ae V core</li>\n<li>Enabling/Disabling the PIO peripheral</li>\n<li>32 bit system ID.</li>\n</ol>\n\n<p>With the default configuration and software sources, the application is able to demonstrate a hello world, memory test , Pio register read/write and printing out the system id value.</p>\n\n<h2>Block Diagram</h2>\n\n<p><img src=\"https://github.com/Private-DesignStore/fpga-examples/assets/75673472/77ad2ac9-41a6-4e55-bb0d-2cfc3d8b97ba\" alt=\"image\" /></p>\n",
+        "url": "https://github.com/Private-DesignStore/fpga-examples/tree/24.1/store/agilex5_fpga_premium_devkit/Intel/agilex5_ced_ip_subsystem",
+        "downloadUrl": "https://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@raw.githubusercontent.com/Private-DesignStore/fpga-examples/24.1/store/agilex5_fpga_premium_devkit/Intel/agilex5_ced_ip_subsystem/design.par",
+        "clickable_downloadUrl": "https://github.com/Private-DesignStore/fpga-examples/raw/24.1/store/agilex5_fpga_premium_devkit/Intel/agilex5_ced_ip_subsystem/design.par"
+      },
+      {
+        "id": "765015899202403111002064149",
+        "group_id": "765015899202403111002064149",
+        "title": "Nios V M transceiver loopback design",
+        "source": "GitHub",
+        "family": "Agilex 7",
+        "quartus_version": "24.1.0 Pro Edition",
+        "devkit": "Intel Agilex 7 FPGA F-Series Development Kit 2xF-Tile DK-DEV-AGF027F1ES",
+        "device_part": "AGFB027R24C2E2VR2",
+        "description": "This design demonstrates the serial loopback via QSFPDD on the Intel Agilex\u00ae 7 FPGA F-Series Development Kit (2x F-Tile).",
+        "rich_description": "<h1></h1>\n\n<p></p>\n\n<h2>Introduction</h2>\n\n<p>For more details on the design, please refer to the document under docs folder.</p>\n",
+        "url": "https://github.com/Private-DesignStore/fpga-examples/tree/24.1/store/agilex7_2tile_fpga_fseries_devkit/Intel/niosv_m_transceiver_loopback_design",
+        "downloadUrl": "https://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@raw.githubusercontent.com/Private-DesignStore/fpga-examples/24.1/store/agilex7_2tile_fpga_fseries_devkit/Intel/niosv_m_transceiver_loopback_design/design.par",
+        "clickable_downloadUrl": "https://github.com/Private-DesignStore/fpga-examples/raw/24.1/store/agilex7_2tile_fpga_fseries_devkit/Intel/niosv_m_transceiver_loopback_design/design.par"
+      },
+      {
+        "id": "765015899202403130348186380",
+        "group_id": "765015899202403130348186380",
+        "title": "Intel Agilex\u00ae 7 FPGA - Custom Instruction Design on Nios\u00ae V/g processor",
+        "source": "GitHub",
+        "family": "Agilex 7",
+        "quartus_version": "24.1.0 Pro Edition",
+        "devkit": "Intel Agilex 7 FPGA F-Series Development Kit P-Tile and E-Tile DK-DEV-AGF014EA",
+        "device_part": "AGFB014R24B2E2V",
+        "description": "This design demonstrates the custom instruction feature of the Nios\u00ae V/g processor using the Intel Agilex\u00ae 7 FPGA F-Series Development Kit",
+        "rich_description": "<h1></h1>\n\n<h2>Introduction</h2>\n\n<p></p>\n\n<p>A Processing Engine (PE) that performs basic arithmetic and logical computations is connected to the Nios\u00ae V/g processor using the custom instruction interface. The current version of the Nios\u00ae V/g processor custom instruction interface supports operations up-to 32-Bit. </p>\n\n<p>Please refer to the document under /docs for details about the design.</p>\n\n<h2>Block Diagram</h2>\n",
+        "url": "https://github.com/Private-DesignStore/fpga-examples/tree/24.1/store/agilex7_fpga_fseries_devkit/Intel/ci_basic_operations",
+        "downloadUrl": "https://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@raw.githubusercontent.com/Private-DesignStore/fpga-examples/24.1/store/agilex7_fpga_fseries_devkit/Intel/ci_basic_operations/design.par",
+        "clickable_downloadUrl": "https://github.com/Private-DesignStore/fpga-examples/raw/24.1/store/agilex7_fpga_fseries_devkit/Intel/ci_basic_operations/design.par"
+      }
+    ]
+  }
+}
