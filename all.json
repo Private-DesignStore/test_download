@@ -3,8 +3,8 @@
     "num": 3,
     "designs": [
       {
-        "id": "765015899202403130424222854",
-        "group_id": "765015899202403130424222854",
+        "id": "7265015899202403130424222854",
+        "group_id": "7265015899202403130424222854",
         "title": "Configurable Example Design For Nios V IP Packaged Subsystem",
         "source": "GitHub",
         "family": "Agilex 5",
@@ -18,8 +18,8 @@
         "clickable_downloadUrl": "https://github.com/Private-DesignStore/fpga-examples/raw/24.1/store/agilex5_fpga_premium_devkit/Intel/agilex5_ced_ip_subsystem/design.par"
       },
       {
-        "id": "765015899202403111002064149",
-        "group_id": "765015899202403111002064149",
+        "id": "7265015899202403111002064149",
+        "group_id": "7265015899202403111002064149",
         "title": "Nios V M transceiver loopback design",
         "source": "GitHub",
         "family": "Agilex 7",
@@ -33,8 +33,8 @@
         "clickable_downloadUrl": "https://github.com/Private-DesignStore/fpga-examples/raw/24.1/store/agilex7_2tile_fpga_fseries_devkit/Intel/niosv_m_transceiver_loopback_design/design.par"
       },
       {
-        "id": "765015899202403130348186380",
-        "group_id": "765015899202403130348186380",
+        "id": "7265015899202403130348186380",
+        "group_id": "7265015899202403130348186380",
         "title": "Intel Agilex\u00ae 7 FPGA - Custom Instruction Design on Nios\u00ae V/g processor",
         "source": "GitHub",
         "family": "Agilex 7",
