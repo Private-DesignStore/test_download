@@ -5,7 +5,7 @@
       {
         "id": "7265015899202403130424222854",
         "group_id": "7265015899202403130424222854",
-        "title": "Configurable Example Design For Nios V IP Packaged Subsystem",
+        "title": "Altera Agilex\u00ae 5 FPGA - Configurable Example Design For Nios V IP Packaged Subsystem",
         "source": "GitHub",
         "family": "Agilex 5",
         "quartus_version": "24.1.0 Pro Edition",
@@ -20,7 +20,7 @@
       {
         "id": "7265015899202403111002064149",
         "group_id": "7265015899202403111002064149",
-        "title": "Nios V M transceiver loopback design",
+        "title": "Altera Agilex\u00ae 7 FPGA - Nios V M transceiver loopback design",
         "source": "GitHub",
         "family": "Agilex 7",
         "quartus_version": "24.1.0 Pro Edition",
@@ -35,7 +35,7 @@
       {
         "id": "7265015899202403130348186380",
         "group_id": "7265015899202403130348186380",
-        "title": "Intel Agilex\u00ae 7 FPGA - Custom Instruction Design on Nios\u00ae V/g processor",
+        "title": "Altera Agilex\u00ae 7 FPGA - Custom Instruction Design on Nios\u00ae V/g processor",
         "source": "GitHub",
         "family": "Agilex 7",
         "quartus_version": "24.1.0 Pro Edition",
